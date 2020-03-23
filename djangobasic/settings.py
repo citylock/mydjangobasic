@@ -34,7 +34,7 @@ if os.getcwd() == '/app':
 print (DEBUG)
 
 
-ALLOWED_HOSTS = ['mydjangobasic.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['mydjangobasic-git.herokuapp.com','mydjangobasic.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
